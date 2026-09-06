@@ -28,8 +28,11 @@ The assignment audits multilingual tokenizer evaluation and model-serving benchm
 
 
 ai-assessment/
+
 ├── NOTEBOOK.md
+
 ├── AI_USAGE.md
+
 ├── partA/
 │   ├── A1_corpus.md
 │   ├── A2_audit.md
