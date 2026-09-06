@@ -1,4 +1,4 @@
-# The Audit — AI Team Intern Take-Home Assignment
+# The Audit
 
 This repository contains my submission for the **AI Team Intern – The Audit** take-home assignment.
 
