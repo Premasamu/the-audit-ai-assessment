@@ -34,20 +34,37 @@ ai-assessment/
 ├── AI_USAGE.md
 
 ├── partA/
+
 │   ├── A1_corpus.md
+
 │   ├── A2_audit.md
+
 │   ├── A3_corrected_analysis.md
+
 │   ├── A4_recommendation_memo.md
+
 │   ├── fertility_original.py
+
 │   ├── corpus/
+
 │   ├── experiments/
+
 │   └── results/
+
 ├── partB/
+
 │   ├── model_spec.md
+
 │   ├── bench_log.csv
+
 │   ├── B1_kv_cache.md
+
 │   ├── B2_throughput_audit.md
+
 │   ├── B3_goodput_audit.md
+
 │   └── B4_monitoring.md
+
 └── partC/
+
     └── memo.md
